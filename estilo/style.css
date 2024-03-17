@@ -59,7 +59,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;             /* foi necessario pois devido ao max width ele virou um bloco */
-    margin-bottom: 30px;
+    padding-bottom: 50px;     /* alterado no video 08 modulo 3 sobre github pois estava com um probleminha visaul no mobile */
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
